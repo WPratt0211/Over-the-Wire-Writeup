@@ -24,7 +24,7 @@ This is also a relatively simple one. You'll find that there is a directory call
 
 If you're aware of any other methods, let me know!
 
-Once you find the file, camed `.hidden`, you can use `cat .hidden` to open it and retrieve the string that will be the password for the `bandit4` user.
+Once you find the file, named `.hidden`, you can use `cat .hidden` to open it and retrieve the string that will be the password for the `bandit4` user.
 
 As always, if you're receiving errors, check your spelling, syntax, and the credentials that you're using.
 
