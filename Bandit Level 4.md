@@ -13,7 +13,7 @@ inhere directory.
 
 Like the other challenges, you'll need to complete the following:
 
-- Make sure you're connected to the `bandit2` user using the credentials from the last challenge
+- Make sure you're connected to the `bandit3` user using the credentials from the last challenge
 - Find the file in the home directory that contains the password. The filename is `.hidden`
 - Read the file and use the string to connect to the `bandit4` user
 
