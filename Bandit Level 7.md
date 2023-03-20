@@ -37,4 +37,4 @@ We can use `cat` to read the file, and it contains the string used for the `band
 
 As always, if you're receiving errors, check your spelling, syntax, and the credentials that you're using.
 
-## That's it for Level 5, thanks for reading!
+## That's it for Level 7, thanks for reading!
