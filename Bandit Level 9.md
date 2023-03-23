@@ -15,6 +15,12 @@ and is the only line of text that occurs only once
 
 ## Solution
 
+Like the other challenges, you'll need to complete the following:
+
+- Make sure you're connected to the `bandit8` user using the credentials from the last challenge
+- Find the password
+- Use the password to connect to the `bandit9` user
+
 This one is also relatively simple, however, I wasn't sure how to do it. The reading material wasn't helpful
 for actually finding the password (unless I missed something), so I did my own research by looking up how to
 list only unique lines in a file. This seemed simple enough, and included using a command that was included
