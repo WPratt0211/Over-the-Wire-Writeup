@@ -24,4 +24,3 @@ Like the other challenges, you'll need to complete the following:
 - Make sure you're connected to the `bandit12` user using the credentials from the last challenge
 - Find the password.
 - Use the password to connect to the `bandit13` user
-
